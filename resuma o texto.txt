@@ -1,0 +1,6 @@
+Meu aluno do segundo ano me perguntou o que esse texto significa:
+"""
+<message>
+"""
+Eu refiz o texto para ele em uma linguagem simples que um aluno do segundo ano pode entender:
+"""

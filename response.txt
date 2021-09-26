@@ -1,0 +1,82 @@
+{
+    "object": "list",
+    "data": [
+        {
+            "id": "ada",
+            "object": "engine",
+            "created": null,
+            "max_replicas": null,
+            "owner": "openai",
+            "permissions": null,
+            "ready": true,
+            "ready_replicas": null,
+            "replicas": null
+        },
+        {
+            "id": "babbage",
+            "object": "engine",
+            "created": null,
+            "max_replicas": null,
+            "owner": "openai",
+            "permissions": null,
+            "ready": true,
+            "ready_replicas": null,
+            "replicas": null
+        },
+        {
+            "id": "content-filter-alpha",
+            "object": "engine",
+            "created": null,
+            "max_replicas": null,
+            "owner": "openai",
+            "permissions": null,
+            "ready": true,
+            "ready_replicas": null,
+            "replicas": null
+        },
+        {
+            "id": "curie",
+            "object": "engine",
+            "created": null,
+            "max_replicas": null,
+            "owner": "openai",
+            "permissions": null,
+            "ready": true,
+            "ready_replicas": null,
+            "replicas": null
+        },
+        {
+            "id": "curie-instruct-beta",
+            "object": "engine",
+            "created": null,
+            "max_replicas": null,
+            "owner": "openai",
+            "permissions": null,
+            "ready": true,
+            "ready_replicas": null,
+            "replicas": null
+        },
+        {
+            "id": "davinci",
+            "object": "engine",
+            "created": null,
+            "max_replicas": null,
+            "owner": "openai",
+            "permissions": null,
+            "ready": true,
+            "ready_replicas": null,
+            "replicas": null
+        },
+        {
+            "id": "davinci-instruct-beta",
+            "object": "engine",
+            "created": null,
+            "max_replicas": null,
+            "owner": "openai",
+            "permissions": null,
+            "ready": true,
+            "ready_replicas": null,
+            "replicas": null
+        }
+    ]
+}
